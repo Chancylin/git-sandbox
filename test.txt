@@ -3,3 +3,5 @@ Commit 2.
 
 
 Add feature-1 and feature-2 together.
+
+Add feature-3.
