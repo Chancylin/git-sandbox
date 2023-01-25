@@ -1,2 +1,2 @@
 This is a test file.
-Commit 1.
+Commit 2.
