@@ -1,4 +1,5 @@
 This is a test file.
 Commit 2.
 
-Add feature-2.
+
+Add feature-1 and feature-2 together.
